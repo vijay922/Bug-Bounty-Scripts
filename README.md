@@ -18,3 +18,11 @@ walmartchile.cl
 ./whoislookup.sh maindomain.txt
 
 output: Domain Name: WALMARTIMAGES.COM Registrant Organization:  Organization: Wal-Mart Stores, Inc.
+
+
+
+
+
+
+
+## please suggest me to add anything or any changes are required ##
